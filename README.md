@@ -11,7 +11,7 @@ In addition to reading the chapters below, you can apply your knowledge to the [
 
 Instructors: If you are interested in adapting any of these materials for your courses, please [fill out this short survey](https://docs.google.com/forms/d/1lcDf-_y9t1oSDH_-HFz3UhUFouAX1518XeCMnlRISss/viewform) so that we can support your efforts.
 
-From:[http://www.composingprograms.com/](http://www.composingprograms.com/)
+From: [http://www.composingprograms.com/](http://www.composingprograms.com/)
 Composing Programs by John DeNero, based on the textbook Structure and Interpretation of Computer Programs by Harold Abelson and Gerald Jay Sussman, is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
 # Structure
@@ -113,19 +113,17 @@ Composing Programs by John DeNero, based on the textbook Structure and Interpret
 │       └── unification.py
 ├── LICENSE
 └── README.md
-```
 
 10 directories, 43 files
-
+```
 
 # Collaboration
 
 You can try create a new PR adding exercises based on the structure above.
 
-
-I advise you to use `hub` for handling PR's with command line, but you can use the github GUI also.
-
-    hub fork
+I advise you to use [`hub`](https://hub.github.com/) for handling PRs with the command line, but you can also use the GitHub GUI.
+    
+	hub fork
     git checkout -b exercise-cap1-basic
     git add .
     git commit
